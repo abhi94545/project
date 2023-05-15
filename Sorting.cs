@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Sort
+    internal class Sort23
     {
         //Sorting through Bubble Sort for array of integers
         public void BubbleSorting(int[] arr) 
