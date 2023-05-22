@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 not modified by me
 
+=======
+not modified
+but needed to be modified
+>>>>>>> 8a01b86a5ed9d86c484b817339ccd1e0cc66c465
