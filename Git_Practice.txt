@@ -1,2 +1,13 @@
+
+6
+
+2
+34
+7
+
 not modified
+
+but needed to be modified
+
+
 
